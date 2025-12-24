@@ -19,3 +19,14 @@ This project focuses on cleaning and analyzing raw sales data using Advanced Exc
 - Real-world data is messy
 - Importance of data cleaning
 - Using Excel formulas effectively
+
+## Data Analysis & Visualization (Excel)
+
+After cleaning the dataset, I performed:
+- Pivot table analysis
+- Sales trend analysis
+- Interactive filtering using slicers
+- Excel-based visualizations
+
+
+
